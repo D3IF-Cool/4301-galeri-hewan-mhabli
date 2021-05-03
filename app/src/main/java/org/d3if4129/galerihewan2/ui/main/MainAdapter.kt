@@ -1,3 +1,6 @@
+package org.d3if4129.galerihewan2.ui.main
+
+import Hewan
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
